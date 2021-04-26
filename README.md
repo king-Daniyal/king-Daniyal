@@ -8,3 +8,7 @@
 
 ## What projects i'm working on 
 ### well right now i'm working on multiple things but you might see in the furture like a new website 
+
+
+# New projects
+### 26th April , JS Bot (discord)
