@@ -10,5 +10,6 @@
 ### well right now i'm working on multiple things but you might see in the furture like a new website 
 
 
-# New projects
-### 06th June , Calc (done)
+# Events
+
+every 1st of every month i'll upload 10 built apps by me or worked on by me at my repository
